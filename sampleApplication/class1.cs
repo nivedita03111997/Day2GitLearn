@@ -8,8 +8,8 @@ namespace sampleApplication
 {
     partial class Class2
     {
-        void printHello()
+        void printHello1()
         {
-            Console.WriteLine("hello from class2 localrepo");
+            Console.WriteLine("hello from class1 remoterepo");
         }
     }
