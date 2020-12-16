@@ -11,6 +11,9 @@ namespace sampleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");?;.lkjb
+                Console.WriteLine("Nidhi Kumari");
+            Console.ReadKey();
+               
         }
     }
 }
