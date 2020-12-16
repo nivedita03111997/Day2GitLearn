@@ -1,0 +1,7 @@
+C:\Users\windos 10\source\repos\sampleApplication\bin\Debug\sampleApplication.exe.config
+C:\Users\windos 10\source\repos\sampleApplication\bin\Debug\sampleApplication.exe
+C:\Users\windos 10\source\repos\sampleApplication\bin\Debug\sampleApplication.pdb
+C:\Users\windos 10\source\repos\sampleApplication\obj\Debug\sampleApplication.csprojAssemblyReference.cache
+C:\Users\windos 10\source\repos\sampleApplication\obj\Debug\sampleApplication.csproj.CoreCompileInputs.cache
+C:\Users\windos 10\source\repos\sampleApplication\obj\Debug\sampleApplication.exe
+C:\Users\windos 10\source\repos\sampleApplication\obj\Debug\sampleApplication.pdb
