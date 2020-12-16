@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace sampleApplication
 {
-    class Class2
+    partial class Class2
     {
+        void printHello()
+        {
+            Console.WriteLine("hello from class2 localrepo");
+        }
     }
 }
